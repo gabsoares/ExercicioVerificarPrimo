@@ -1,9 +1,13 @@
-﻿int numero = 0;
+﻿int numero;
 bool primoOuNao = true;
+
+Console.Write("Digite um número maior que 1 para saber se ele é primo ou não: ");
+numero = int.Parse(Console.ReadLine());
+
 
 while (numero <= 1)
 {
-    Console.Write("Digite um número maior que 1 para saber se é primo ou não: ");
+    Console.Write("Precisa ser maior que 1!!!: ");
     numero = int.Parse(Console.ReadLine());
 }
 

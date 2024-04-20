@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\soare\\.nuget\\packages\\": {}
+    "C:\\Users\\adm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\soare\\source\\repos\\ExercicioNumeroPrimo\\ExercicioNumeroPrimo\\ExercicioNumeroPrimo.csproj",
+      "projectUniqueName": "C:\\Users\\adm\\Documents\\ExerciciosParaDia22\\ExercicioVerificarNumeroPrimo\\ExercicioNumeroPrimo\\ExercicioNumeroPrimo.csproj",
       "projectName": "ExercicioNumeroPrimo",
-      "projectPath": "C:\\Users\\soare\\source\\repos\\ExercicioNumeroPrimo\\ExercicioNumeroPrimo\\ExercicioNumeroPrimo.csproj",
-      "packagesPath": "C:\\Users\\soare\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\soare\\source\\repos\\ExercicioNumeroPrimo\\ExercicioNumeroPrimo\\obj\\",
+      "projectPath": "C:\\Users\\adm\\Documents\\ExerciciosParaDia22\\ExercicioVerificarNumeroPrimo\\ExercicioNumeroPrimo\\ExercicioNumeroPrimo.csproj",
+      "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adm\\Documents\\ExerciciosParaDia22\\ExercicioVerificarNumeroPrimo\\ExercicioNumeroPrimo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\soare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
